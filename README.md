@@ -2,8 +2,9 @@
 # Landing Page GTA 
  [![NPM](https://img.shields.io/npm/l/react)](https://github.com/tedoidobr/Landing-Page-GTA/blob/main/LICENSE)
 
-Este é um projeto de uma landing page para o jogo Grand Theft Auto V e GTA Online, desenvolvido como um exercício de
+Este é um projeto de uma landing page para o jogo Grand Theft Auto V e GTA Online, 
 
+desenvolvido como um exercício de
 <img align="center" alt="HTML" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML, <img align="center" alt="CSS" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS   e <img align="center" alt="Js" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JS .
 
 ## Objetivo
