@@ -1,6 +1,6 @@
 
 # Landing Page GTA 
- 
+ [![NPM](https://img.shields.io/npm/l/react)](https://github.com/tedoidobr/Landing-Page-GTA/blob/main/LICENSE)
 
 Este é um projeto de uma landing page para o jogo Grand Theft Auto V e GTA Online, desenvolvido como um exercício de
 
@@ -42,3 +42,19 @@ Para usar este projeto, você precisa ter um navegador web atualizado e um edito
 - Abra a pasta do projeto no seu editor de texto
 - Abra o arquivo index.html no seu navegador web
 - Aproveite a página e explore os seus elementos
+
+## Autor
+[Daniel Angeli](https://github.com/tedoidobr) - Analista de redes. Amante de tecnologia, estudante de programação. Atualmente focado em Java e JavaScript.
+<div> 
+  <a href="https://instagram.com/tedoido" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:tedoido@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-armindo-angeli-06aa37282/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/tedoidobr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
+
+
+
+## Licença
+
+Este projeto está licenciado sob a 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/tedoidobr/Landing-Page-GTA/blob/main/LICENSE)
