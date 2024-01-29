@@ -1,5 +1,8 @@
 
-# Landing Page GTA 
+<h1 align="center">Landing Page GTA</h1>  
+
+
+ 
  [![NPM](https://img.shields.io/npm/l/react)](https://github.com/tedoidobr/Landing-Page-GTA/blob/main/LICENSE)
 
 Este é um projeto de uma landing page para o jogo Grand Theft Auto V e GTA Online, 
@@ -7,7 +10,7 @@ Este é um projeto de uma landing page para o jogo Grand Theft Auto V e GTA Onli
 desenvolvido como um exercício de
 <img align="center" alt="HTML" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML, <img align="center" alt="CSS" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS   e <img align="center" alt="Js" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JS .
 
-## Objetivo
+ <h2 align="center">Objetivo</h2> 
 
 O objetivo deste projeto é criar uma página web que apresente o jogo GTA V e GTA Online, mostrando as suas características, os seus gráficos, as suas plataformas disponíveis e o seu link de compra.
 
@@ -19,7 +22,7 @@ O objetivo deste projeto é criar uma página web que apresente o jogo GTA V e G
 - Fonte Chalet: fonte personalizada para o título e o texto da página, obtida do site https://fonts.cdnfonts.com/css/chalet
 - Imagens: imagens do jogo e dos seus logos, obtidas da pasta src/imagens
 
-## Estrutura do código
+<h2 align="center"> Estrutura do código </h2> 
 
 O código HTML está dividido em três partes principais: o cabeçalho, o corpo e o rodapé.
 
@@ -35,7 +38,8 @@ O código HTML está dividido em três partes principais: o cabeçalho, o corpo 
   - A terceira linha usa o método addEventListener para adicionar um evento de clique ao elemento botao. Esse método recebe dois argumentos: o tipo do evento ("click") e uma função que será executada quando o evento ocorrer (() => {elementoPlataformas.classList.toggle("ativo");}). Essa função é uma função de seta, que é uma forma concisa de escrever funções em JavaScript.
   - A quarta linha usa o método classList.toggle para alternar a classe ativo no elemento elementoPlataformas. Esse método recebe um argumento: o nome da classe ("ativo"). Se o elemento já tiver essa classe, o método a remove. Se o elemento não tiver essa classe, o método a adiciona. Essa classe é definida no arquivo CSS e tem um efeito de mostrar ou esconder o elemento, usando a propriedade display.
 - Portanto, o que esse código faz é o seguinte: quando o usuário clica no botão de plataformas, ele verifica se a lista de plataformas está visível ou não. Se estiver visível, ele a esconde. Se estiver escondida, ele a mostra. Isso cria um efeito de abrir e fechar o menu de plataformas.
-## Instruções de uso
+
+<h2 align="center"> Instruções de uso</h2> 
 
 Para usar este projeto, você precisa ter um navegador web atualizado e um editor de texto de sua preferência. Você pode seguir os seguintes passos:
 
@@ -44,7 +48,8 @@ Para usar este projeto, você precisa ter um navegador web atualizado e um edito
 - Abra o arquivo index.html no seu navegador web
 - Aproveite a página e explore os seus elementos
 
-## Autor
+<h1 align="center">Autor</h1> 
+
 [Daniel Angeli](https://github.com/tedoidobr) - Analista de redes. Amante de tecnologia, estudante de programação. Atualmente focado em Java e JavaScript.
 <div> 
   <a href="https://instagram.com/tedoido" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
