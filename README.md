@@ -1,20 +1,19 @@
-
 <h1 align="center">Landing Page GTA</h1>  
-
 
  
  [![NPM](https://img.shields.io/npm/l/react)](https://github.com/tedoidobr/Landing-Page-GTA/blob/main/LICENSE)
 
-Este é um projeto de uma landing page para o jogo Grand Theft Auto V e GTA Online, 
+<p align="center"> Este é um projeto de uma landing page para o jogo Grand Theft Auto V e GTA Online,</p>
+<p align="center"> desenvolvido como um exercício de <img align="center" alt="HTML" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML, <img align="center" alt="CSS" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS  e <img align="center" alt="Js" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JS .
+</p>
 
-desenvolvido como um exercício de
-<img align="center" alt="HTML" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML, <img align="center" alt="CSS" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS   e <img align="center" alt="Js" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JS .
-
- <h2 align="center">Objetivo</h2> 
+ <h2 align="center"> Objetivo </h2> 
+ 
 
 O objetivo deste projeto é criar uma página web que apresente o jogo GTA V e GTA Online, mostrando as suas características, os seus gráficos, as suas plataformas disponíveis e o seu link de compra.
 
-## Tecnologias utilizadas
+<h2 align="center">  Tecnologias utilizadas </h2>
+
 
 - HTML<img align="center" alt="HTML" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">: linguagem de marcação para estruturar o conteúdo da página
 - CSS<img align="center" alt="CSS" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">: linguagem de estilo para definir a aparência e o layout da página
@@ -41,7 +40,7 @@ O código HTML está dividido em três partes principais: o cabeçalho, o corpo 
 
 <h2 align="center"> Instruções de uso</h2> 
 
-Para usar este projeto, você precisa ter um navegador web atualizado e um editor de texto de sua preferência. Você pode seguir os seguintes passos:
+<h3> Para usar este projeto, você precisa ter um navegador web atualizado e um editor de texto de sua preferência. Você pode seguir os seguintes passos:</h3>
 
 - Faça o download ou o clone deste repositório para o seu computador
 - Abra a pasta do projeto no seu editor de texto
@@ -60,7 +59,7 @@ Para usar este projeto, você precisa ter um navegador web atualizado e um edito
 
 
 
-## Licença
+<h2>Licença</h2> 
 
 Este projeto está licenciado sob a 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/tedoidobr/Landing-Page-GTA/blob/main/LICENSE)
